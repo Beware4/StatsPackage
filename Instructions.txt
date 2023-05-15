@@ -1,0 +1,11 @@
+Instructions are simple:
+  There is only one function that is programmed into this and it is the createstat(name, number, color) function
+  What you do is this:
+  
+  You type createstat()
+  Between the parenthesis, first type the name so if I used cow as a name it should look like this: createstat("cow")
+  Next type the number that you want it to be on, this means that if there are 2 cows you will type: createstat("cow", 2)
+  Next type the color of the stat bar: createstat("cow", 2, "green")
+  This should make a bar labeled cow at the value of two that is the color green
+  
+  THERE IS NO PROPER DOCUMENTATION OF THIS SO IF YOU DON'T UNDERSTAND IT FULLY THEN JUST PLAY AROUND WITH IT UNTIL YOU GET IT!
